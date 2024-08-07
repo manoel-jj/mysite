@@ -1,5 +1,5 @@
 asgiref==3.8.1
-Django==5.0.4
+Django==5.0.8
 django-autoslug==1.9.9
 factory-boy==3.3.0
 Faker==24.14.1
